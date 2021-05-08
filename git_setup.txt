@@ -1,0 +1,6 @@
+﻿git init
+git add .
+git commit -m "hierarchical clustering with entropy v3 03052021"
+git remote add origin https://github.com/MahirSY/phd
+git checkout phd
+git push origin phd
